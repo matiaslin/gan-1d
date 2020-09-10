@@ -5,4 +5,4 @@ The architectures of both the discriminator and the generator are as basic as it
 
 The following gif serves as a display of how the model learnt:
 
-![Alt text](gan_learning.gif
+![Alt text](gan_learning.gif)
